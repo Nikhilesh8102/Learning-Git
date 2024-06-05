@@ -1,1 +1,1 @@
-Iam currently learning git and github . This repo contains the files that Iam using as an experiment to ssee the working of git anf github.
+I am currently learning git and github. This repo contains the files that Iam using as an experiment to see the working of git and github.
